@@ -1,0 +1,32 @@
+table, tr, td, th
+	{
+		border: 1px solid black;
+		border-collapse: collapse;
+		padding: 5px;
+		width: 50%;
+
+	}
+
+tr:nth-child(even)
+	{
+		background-color: 
+	}
+
+tr:nth-child(odd)
+	{
+		background-color: 
+	}
+th
+	{
+		background-color: 
+	}
+
+tr:hover
+	{
+		background-color: 
+	}
+
+p
+	{
+		font-family: 'Great Vibes', cursive;
+	}
